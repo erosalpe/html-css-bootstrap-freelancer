@@ -19,3 +19,9 @@
 .rslpgn-primary{
     color: #2c3e50;
 }
+
+::placeholder {
+    color: black;
+    opacity: 1;
+    font-weight: 500;
+  }
