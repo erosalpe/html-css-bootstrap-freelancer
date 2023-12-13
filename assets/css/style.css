@@ -36,3 +36,16 @@
         width: 25%;
     }
   }
+
+  .navbar-expand-md .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-toggler-icon{
+    filter: invert(1);
+    border-color: white;
+}
+
+.navbar-toggler{
+    border-color: white;
+}
